@@ -1,4 +1,6 @@
-# Create a simple ramdom user generator
+# Create a simple vue.js project
+It generates a random person by clicking button.
+This is running on local browser.
 
 ### Before starting, npm installed, javascript is enabled in local firefox browser:
 
